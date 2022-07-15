@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielchochlinski
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning react
+
 
 - 📫 How to reach me danielchochlinski@gmail.com
 
