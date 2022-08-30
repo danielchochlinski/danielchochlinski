@@ -1,13 +1,21 @@
-- 👋 Hi, I’m @danielchochlinski
-I'm a Front End Developer, primarly working with React. 
+### Hi there 👋, my name is Daniel
+#### I am a Front End Developer
+I love creating creative a beautiful designs, solve new problems and learning new technologies. 
+
+Skills: NODE.JS / NEXT.JS / REACT / JS / HTML / CSS
+
+- 🌱 I’m currently learning Solidity and backend 
 
 
-- 📫 How to reach me danielchochlinski@gmail.com
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danielchochlinski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.danielchochlinski.com/)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielchochlinski&theme=radical&show_icons=true)
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielchochlinski)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-danielchochlinski/danielchochlinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielchochlinski&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danielchochlinski)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=danielchochlinski)  
+
