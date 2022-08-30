@@ -13,7 +13,7 @@ Skills: NODE.JS / NEXT.JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielchochlinski)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielchochlinski&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielchochlinski&theme=radical&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=danielchochlinski)  
 
