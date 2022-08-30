@@ -1,11 +1,12 @@
-### Hi there 👋, my name is Daniel
-#### I am a Front End Developer
+# Hi there 👋, my name is Daniel
+## I am a Front End Developer
 I love creating creative a beautiful designs, solve new problems and learning new technologies. 
 
-Skills: NODE.JS / NEXT.JS / REACT / JS / HTML / CSS
+Skills:NODE.JS / NEXT.JS / REACT / JS / HTML / CSS
+
 
 - 🌱 I’m currently learning Solidity and backend 
-
+*
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danielchochlinski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.danielchochlinski.com/)  
 
