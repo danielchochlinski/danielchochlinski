@@ -4,7 +4,7 @@ I'm a Front End Developer, primarly working with React.
 
 - 📫 How to reach me danielchochlinski@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielchochlinski&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielchochlinski&theme=radical_icons=true)
 
 
 <!---
