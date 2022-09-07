@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Daniel
 ## I am a Front End Developer
-I love creating creative a beautiful designs, solve new problems and learning new technologies. 
+I love creating beautiful designs, solve new problems and learning new technologies. 
 
 Skills:NODE.JS / NEXT.JS / REACT / JS / HTML / CSS
 
