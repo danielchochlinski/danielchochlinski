@@ -1,6 +1,6 @@
-# Hi there 👋, my name is Daniel
-## I am a Front End Developer
-I love creating beautiful designs, solve new problems and learning new technologies. 
+# Hello
+## 
+I love creating beautiful designs, solve new problems and learn new technologies. 
 
 
 
