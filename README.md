@@ -1,8 +1,8 @@
-# Hello
+# Hi
 ## 
-I love creating beautiful designs, solve new problems and learn new technologies. 
+
 ##
-check out my work at 
+
 https://danielchochlinski.dev/
 
 
